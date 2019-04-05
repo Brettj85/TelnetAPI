@@ -1,0 +1,11 @@
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\bin\Debug\netcoreapp2.2\TelnetSSHAPI.deps.json
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\bin\Debug\netcoreapp2.2\TelnetSSHAPI.runtimeconfig.json
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\bin\Debug\netcoreapp2.2\TelnetSSHAPI.runtimeconfig.dev.json
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\bin\Debug\netcoreapp2.2\TelnetSSHAPI.dll
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\obj\Debug\netcoreapp2.2\TelnetSSHAPI.csprojAssemblyReference.cache
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\obj\Debug\netcoreapp2.2\TelnetSSHAPI.csproj.CoreCompileInputs.cache
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\obj\Debug\netcoreapp2.2\TelnetSSHAPI.RazorAssemblyInfo.cache
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\obj\Debug\netcoreapp2.2\TelnetSSHAPI.RazorAssemblyInfo.cs
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\obj\Debug\netcoreapp2.2\TelnetSSHAPI.AssemblyInfoInputs.cache
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\obj\Debug\netcoreapp2.2\TelnetSSHAPI.AssemblyInfo.cs
+C:\Users\P2158000\source\repos\TelnetSSHAPI\TelnetSSHAPI\obj\Debug\netcoreapp2.2\TelnetSSHAPI.RazorTargetAssemblyInfo.cache
